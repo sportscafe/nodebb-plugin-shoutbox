@@ -232,7 +232,7 @@
 			scrollBreakpoint: 50,
 			messages: {
 				alert: '[ %u ] - new shout!',
-				empty: 'The shoutbox is empty, start shouting!',
+				empty: 'Please <a href="/login">login</a> to join the discussion!',
 				scrolled: '<a href="#" id="shoutbox-content-overlay-scrolldown">Scroll down</a>'
 			},
 			userCheck: 0
